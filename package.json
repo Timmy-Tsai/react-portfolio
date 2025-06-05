@@ -1,6 +1,6 @@
 {
   "name": "react-portfolio",
-  "homepage": "https://timmy-tsai.github.io",
+  "homepage": "https://timmy-tsai.github.io/react-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,7 +11,7 @@
     "@fortawesome/react-fontawesome": "^0.2.2",
     "animate.css": "^4.1.1",
     "cra-template": "1.2.0",
-    "gsap-trial": "^3.12.5",
+    "gsap": "^3.13.0",
     "loaders.css": "^0.1.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
@@ -28,7 +28,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": [
